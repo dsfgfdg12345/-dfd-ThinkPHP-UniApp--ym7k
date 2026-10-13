@@ -1,4 +1,6 @@
-<img width="1018" height="1024" alt="2025070419034046" src="https://github.com/user-attachments/assets/27c827a9-4a9c-472b-899f-932e817b033d" /># 全开源点餐系统源码ThinkPHP+UniApp -ym7k
+<img width="1018" height="1024" alt="2025070419034046" src="https://github.com/user-attachments/assets/27c827a9-4a9c-472b-899f-932e817b033d" />
+
+# 全开源点餐系统源码ThinkPHP+UniApp -ym7k
 
 获取源码：ym7k.com/17837/全开源点餐系统源码ThinkPHP+UniApp -ym7k
 
@@ -14,6 +16,6 @@ LBS定位点餐是茶饮外卖关键功能。用户进入小程序后自动获�
 
 茶饮点餐页面涉及大量图片和商品数据，性能优化至关重要。使用图片懒加载、分页加载商品列表、Redis缓存热门商品。打包方面，微信小程序通过HBuilderX编译后在微信开发者工具上传审核；H5端生成静态文件部署Nginx；App端通过云打包或离线打包生成APK/IPA。Uniapp跨端能力为连锁茶饮提供显著成本优势。
 
-![Uploading 2025070419035426.png…]()
+
 
 <img width="1024" height="988" alt="2025070419032222" src="https://github.com/user-attachments/assets/1ee19993-a188-4cf3-8930-0e6200342f42" />
